@@ -73,6 +73,7 @@ export const DATA = {
   work: [
     {
       company: "Ineffable dev",
+      href: "https://ineffabledevs.com",
       badges: ["MERN Stack developer"],
       location: "Comsats University Islamabad",
       title: "MERN Stack developer",
@@ -232,7 +233,7 @@ export const DATA = {
         },
       ],
       image: "/sumzai.png",
-      // video: "",
+      video: "",
     }
     
   ],
